@@ -2,5 +2,5 @@
 
 Git Basics 101
 
-Player Speed = 4
+Player Speed = 6
 
